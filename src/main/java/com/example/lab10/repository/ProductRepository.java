@@ -14,7 +14,7 @@ public class ProductRepository {
     public ProductRepository() {
         store.put("1", new Product(
                 "1",
-                "iPhone 15 Pro (ใส่ชื่อของตัวเอง 673380064-8 SEC 1)",
+                "iPhone 15 Pro (สรวิชญ์ วันเสน 673380064-8 SEC 1)",
                 "Electronics",
                 "Apple",
                 50,
